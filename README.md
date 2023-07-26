@@ -5,6 +5,8 @@
 
 ## usage:
 
+在url.txt中填入你要探测的url，然后执行以下命令：
+
 ```shell
 pip install -r requirements.txt
 python getTitle.py
